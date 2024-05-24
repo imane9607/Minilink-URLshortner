@@ -1,0 +1,11 @@
+{
+    "name": "kerad/minilink",
+    "type": "project",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "imane"
+        }
+    ],
+    "require": {}
+}
